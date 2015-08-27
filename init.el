@@ -147,3 +147,5 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+(setq initial-frame-alist '((top . 0) (left . 0) (width . 177) (height . 53)))
